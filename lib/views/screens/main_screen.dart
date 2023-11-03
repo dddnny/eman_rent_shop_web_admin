@@ -141,3 +141,14 @@ class _MainScreenState extends State<MainScreen> {
         body: _selectedItem);
   }
 }
+
+//@override
+//  Widget build(BuildContext context) {
+   // return AdminScaffold(
+    //    backgroundColor: Colors.white,
+      //  sideBar: SideBar(
+       //   items: [
+          //  AdminMenuItem(
+            //    title: 'Dashboard',
+             //   icon: Icons.dashboard,
+             //s   route: DashboardScreen.routeName),
